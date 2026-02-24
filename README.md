@@ -1,27 +1,35 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=111111&height=140&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:111827&height=140&section=header"/>
 </p>
 
 <h2 align="center">Rudresh Borle</h2>
-<p align="center"><i>AI Builder · Machine Learning Lead · Future Quant</i></p>
+<p align="center"><i>AI Builder · ML Lead · Future Quant</i></p>
 
 ---
 
-## About
+## ✦ About Me
 
-I’m a Computer Engineering student at NMIET and Machine Learning Domain Head at ACM, focused on building intelligent systems that bridge research and real-world applications. My interests lie in AI, machine learning, and system design — with a long-term goal of working at the intersection of quantitative development and advanced AI research.
-
----
-
-## Selected Projects
-
-* **LearnerAi** — AI-powered mind map generation platform
-* **ChainSafe-AI** — Exploring AI-driven blockchain security
-* **Gryffindors REWEAR** — Sustainability-focused fashion reuse platform
+✨ Building intelligent systems and exploring AI research
+🚀 Machine Learning Domain Head @ ACM
+🧠 Currently working on AI-powered products & system design
+⚡ Long-term goal → Quant Dev × Advanced AI
 
 ---
 
-## Tech Stack
+## ✦ Projects
+
+**LearnerAi** <sub>AI mind map generation using Gemini + Mermaid</sub>
+`AI` `React` `Flask`
+
+**ChainSafe-AI** <sub>AI-driven blockchain security exploration</sub>
+`AI` `Blockchain` `Python`
+
+**Gryffindors REWEAR** <sub>Sustainability-focused fashion reuse platform</sub>
+`Web` `React` `Sustainability`
+
+---
+
+## ✦ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,react,postgres,java,docker,pytorch,tensorflow,sklearn,numpy,pandas&perline=7"/>
@@ -29,25 +37,33 @@ I’m a Computer Engineering student at NMIET and Machine Learning Domain Head a
 
 ---
 
-## GitHub Analytics
+## ✦ GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudreshborle&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rudreshborle&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rudreshborle&theme=github_dark"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rudreshborle&theme=algolia&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
-## Activity Graph
+## ✦ GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rudreshborle&theme=github-compact"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudreshborle&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rudreshborle&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rudreshborle&theme=tokyonight"/>
 </p>
 
 ---
 
-## LeetCode
+## ✦ Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rudreshborle&theme=tokyo-night"/>
+</p>
+
+---
+
+## ✦ LeetCode
 
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/RudreshBorle?theme=dark&ext=contest"/>
@@ -55,7 +71,7 @@ I’m a Computer Engineering student at NMIET and Machine Learning Domain Head a
 
 ---
 
-## Connect
+## ✦ Connect
 
 <p align="center">
 <a href="https://github.com/rudreshborle">GitHub</a> ·
@@ -67,7 +83,6 @@ I’m a Computer Engineering student at NMIET and Machine Learning Domain Head a
 
 <p align="center">
 <i>
-Focused on building meaningful systems, learning continuously,  
-and turning curiosity into real-world impact.
+Building today what I once searched tutorials for.
 </i>
 </p>
