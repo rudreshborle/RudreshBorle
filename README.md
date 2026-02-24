@@ -2,7 +2,11 @@
 <p align="center"><i>AI Builder · Machine Learning Lead · Future Quant</i></p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3500&color=9CA3AF&center=true&vCenter=true&width=420&lines=Building+intelligence;Designing+systems;Exploring+AGI;Quietly+leveling+up" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=28&duration=1&pause=9999&color=111111&center=true&vCenter=true&width=500&lines=Rudresh+Borle" />
+</p>
+
+<p align="center">
+AI Builder · Machine Learning Lead · Future Quant
 </p>
 
 <br>
