@@ -15,17 +15,9 @@ I’m a Computer Engineering student at NMIET and Machine Learning Domain Head a
 
 ## Selected Projects
 
-<a href="https://github.com/rudreshborle/LearnerAi">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rudreshborle&repo=LearnerAi&theme=transparent&hide_border=true&v=1"/>
-</a>
-
-<a href="https://github.com/rudreshborle/ChainSafe-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rudreshborle&repo=ChainSafe-AI&theme=transparent&hide_border=true&v=1"/>
-</a>
-
-<a href="https://github.com/rudreshborle/Gryffindors-REWEAR">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rudreshborle&repo=Gryffindors-REWEAR&theme=transparent&hide_border=true&v=1"/>
-</a>
+* **LearnerAi** — AI-powered mind map generation platform
+* **ChainSafe-AI** — Exploring AI-driven blockchain security
+* **Gryffindors REWEAR** — Sustainability-focused fashion reuse platform
 
 ---
 
@@ -40,7 +32,9 @@ I’m a Computer Engineering student at NMIET and Machine Learning Domain Head a
 ## GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rudreshborle&show_icons=true&count_private=true&theme=transparent&hide_border=true&v=1"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudreshborle&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rudreshborle&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rudreshborle&theme=github_dark"/>
 </p>
 
 ---
@@ -48,7 +42,7 @@ I’m a Computer Engineering student at NMIET and Machine Learning Domain Head a
 ## Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rudreshborle&theme=github-compact&hide_border=true&bg_color=transparent&v=1"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rudreshborle&theme=github-compact"/>
 </p>
 
 ---
@@ -74,6 +68,6 @@ I’m a Computer Engineering student at NMIET and Machine Learning Domain Head a
 <p align="center">
 <i>
 Focused on building meaningful systems, learning continuously,  
-and pushing curiosity into real-world impact.
+and turning curiosity into real-world impact.
 </i>
 </p>
