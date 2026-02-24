@@ -1,44 +1,97 @@
-<!-- HEADER -->
-
-<h1 align="center">Rudresh Borle</h1>
-<p align="center"><i>AI Builder • ML Lead • Future Quant</i></p>
+<h1 align="center">RUDRESH BORLE</h1>
+<p align="center"><i>AI Builder · Machine Learning Lead · Future Quant</i></p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3500&color=D3D3D3&center=true&vCenter=true&width=450&lines=Building+intelligence;Designing+systems;Exploring+AGI;Quietly+leveling+up" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3500&color=9CA3AF&center=true&vCenter=true&width=420&lines=Building+intelligence;Designing+systems;Exploring+AGI;Quietly+leveling+up" />
 </p>
 
----
+<br>
 
-## 🧠 Identity
+<p align="center">────────── ✦ ──────────</p>
+
+## Identity
 
 ```yaml
 role: Computer Engineering Student @ NMIET
-leadership: ML Domain Head @ ACM
+leadership: Machine Learning Domain Head @ ACM
 focus: AI • ML • Systems • Research
 mission: Build intelligent systems with real-world impact
 trajectory: Quant Developer → AI Scientist
 ```
 
----
+<p align="center">────────── ✦ ──────────</p>
 
-## ⚡ Selected Work
+## Selected Projects
 
-**Learner.ai** → AI mind map generation
-**SSCMS** → Space cargo optimization
-**Patent AI Platform** → Patent intelligence system
-**Fake News Detection** → AI misinformation detection
+<a href="https://github.com/rudreshborle/LearnerAi">
 
----
+### LearnerAi
 
-## 🛠️ Stack
+<sub>AI-powered mind map generation using Gemini API and Mermaid visualization</sub>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rudreshborle&repo=LearnerAi&theme=transparent&hide_border=true" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/AI-111111?style=flat"/>
+<img src="https://img.shields.io/badge/React-111111?style=flat"/>
+<img src="https://img.shields.io/badge/Flask-111111?style=flat"/>
+</p>
+
+</a>
+
+<br>
+
+<a href="https://github.com/rudreshborle/ChainSafe-AI">
+
+### ChainSafe-AI
+
+<sub>Exploring AI-driven blockchain security and intelligence applications</sub>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rudreshborle&repo=ChainSafe-AI&theme=transparent&hide_border=true" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/AI-111111?style=flat"/>
+<img src="https://img.shields.io/badge/Blockchain-111111?style=flat"/>
+<img src="https://img.shields.io/badge/Python-111111?style=flat"/>
+</p>
+
+</a>
+
+<br>
+
+<a href="https://github.com/rudreshborle/Gryffindors-REWEAR">
+
+### Gryffindors REWEAR
+
+<sub>Sustainability-focused fashion reuse platform promoting circular economy</sub>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rudreshborle&repo=Gryffindors-REWEAR&theme=transparent&hide_border=true" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Web-111111?style=flat"/>
+<img src="https://img.shields.io/badge/React-111111?style=flat"/>
+<img src="https://img.shields.io/badge/Sustainability-111111?style=flat"/>
+</p>
+
+</a>
+
+<p align="center">────────── ✦ ──────────</p>
+
+## Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,java,react,flask,fastapi,postgres,redis,docker,aws&perline=5" />
 </p>
 
----
+<p align="center">────────── ✦ ──────────</p>
 
-## 💎 GitHub Stats
+## GitHub Analytics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=rudreshborle&show_icons=true&theme=transparent&hide_border=true" height="150"/>
@@ -46,59 +99,43 @@ trajectory: Quant Developer → AI Scientist
 </p>
 
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudreshborle&layout=compact&theme=transparent&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudreshborle&theme=github_dark" />
 </p>
 
----
+<p align="center">────────── ✦ ──────────</p>
 
-## 📈 Activity Graph
+## Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudreshborle&theme=github-compact&hide_border=true&bg_color=transparent" />
 </p>
 
----
+<p align="center">────────── ✦ ──────────</p>
 
-## 🧩 LeetCode
+## LeetCode
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/RudreshBorle?theme=dark&font=JetBrains+Mono&ext=contest" />
+<img src="https://leetcard.jacoblin.cool/RudreshBorle?theme=dark&font=Inter&ext=contest" />
 </p>
 
----
+<p align="center">────────── ✦ ──────────</p>
 
-## 🐍 Contribution Snake
+## Connect
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/rudreshborle/rudreshborle/output/github-contribution-grid-snake-dark.svg" />
+<a href="https://github.com/rudreshborle">GitHub</a>
+&nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/rudresh-borle">LinkedIn</a>
+&nbsp;·&nbsp;
+<a href="https://www.instagram.com/grrruto.tm/">Instagram</a>
 </p>
 
----
+<br>
 
-## 🌐 Connect
-
-<p align="center">
-<a href="https://github.com/rudreshborle">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/grrruto.tm/">
-<img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/rudresh-borle">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-</p>
-
----
-
-## ✦ Philosophy
-
-<p align="center">
-<i>
-Consistency compounds  
-Curiosity scales  
-Silence builds mastery
-</i>
+<p align="center" style="opacity:0.6;">
+Consistency compounds · Curiosity scales · Silence builds mastery
 </p>
