@@ -16,15 +16,15 @@ I’m a Computer Engineering student at NMIET and Machine Learning Domain Head a
 ## Selected Projects
 
 <a href="https://github.com/rudreshborle/LearnerAi">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rudreshborle&repo=LearnerAi&theme=transparent&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rudreshborle&repo=LearnerAi&theme=transparent&hide_border=true&v=1"/>
 </a>
 
 <a href="https://github.com/rudreshborle/ChainSafe-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rudreshborle&repo=ChainSafe-AI&theme=transparent&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rudreshborle&repo=ChainSafe-AI&theme=transparent&hide_border=true&v=1"/>
 </a>
 
 <a href="https://github.com/rudreshborle/Gryffindors-REWEAR">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rudreshborle&repo=Gryffindors-REWEAR&theme=transparent&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rudreshborle&repo=Gryffindors-REWEAR&theme=transparent&hide_border=true&v=1"/>
 </a>
 
 ---
@@ -40,7 +40,7 @@ I’m a Computer Engineering student at NMIET and Machine Learning Domain Head a
 ## GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rudreshborle&show_icons=true&theme=transparent&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rudreshborle&show_icons=true&count_private=true&theme=transparent&hide_border=true&v=1"/>
 </p>
 
 ---
@@ -48,7 +48,7 @@ I’m a Computer Engineering student at NMIET and Machine Learning Domain Head a
 ## Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rudreshborle&theme=github-compact&hide_border=true&bg_color=transparent"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rudreshborle&theme=github-compact&hide_border=true&bg_color=transparent&v=1"/>
 </p>
 
 ---
