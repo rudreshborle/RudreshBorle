@@ -1,88 +1,90 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:111827&height=140&section=header"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there,%20I'm%20Rudresh!%20%F0%9F%91%8B&fontSize=50&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20&%20Creative%20Technologist&descAlignY=55&descAlign=50" />
+</div>
 
-<h2 align="center">Rudresh Borle</h2>
-<p align="center"><i>AI Builder · ML Lead · Future Quant</i></p>
+<h3 align="center">Crafting immersive digital experiences through code, AI, and dynamic motion.</h3>
 
----
+<br />
 
-## ✦ About Me
+<div align="center">
+  <a href="https://linkedin.com/in/rudreshborle">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/RudreshBorle">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:rudreshborle@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
-✨ Building intelligent systems and exploring AI research
-🚀 Machine Learning Domain Head @ ACM
-🧠 Currently working on AI-powered products & system design
-⚡ Long-term goal → Quant Dev × Advanced AI
+<br />
 
----
+### 👨‍💻 About Me
 
-## ✦ Projects
+I am a passionate developer focused on bridging the gap between artificial intelligence and high-end web design. My goal is to build applications that don't just function well, but deliver a **wow factor** through cinematic storytelling, advanced animations, and 3D graphics.
 
-**LearnerAi** <sub>AI mind map generation using Gemini + Mermaid</sub>
-`AI` `React` `Flask`
-
-**ChainSafe-AI** <sub>AI-driven blockchain security exploration</sub>
-`AI` `Blockchain` `Python`
-
-**Gryffindors REWEAR** <sub>Sustainability-focused fashion reuse platform</sub>
-`Web` `React` `Sustainability`
-
----
-
-## ✦ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,react,postgres,java,docker,pytorch,tensorflow,sklearn,numpy,pandas&perline=7"/>
-</p>
+- 🔭 **Currently Building:** A futuristic, production-ready AI Developer Portfolio featuring viewport-filling typography, immersive WebGL environments, and intelligent interactions.
+- ⚙️ **Tech Stack:** Next.js (App Router), TypeScript, Tailwind CSS, Three.js, GSAP, and custom AI implementations.
+- 🌱 **Learning:** Always pushing the limits of what's possible with WebGL, compute shaders, and modern front-end architectures.
+- ⚡ **Fun Fact:** I believe a great UI feels alive—interactive elements and micro-animations are my absolute favorite things to build.
 
 ---
 
-## ✦ GitHub Trophies
+### 💻 Technologies & Tools
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rudreshborle&theme=algolia&no-frame=true&row=1&column=6"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,threejs,nodejs,python,git,figma&perline=10" />
 </p>
 
 ---
 
-## ✦ GitHub Analytics
+### 🚀 This Repository (My Portfolio)
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudreshborle&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rudreshborle&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rudreshborle&theme=tokyonight"/>
-</p>
+This repository holds the source code for my interactive portfolio. It acts both as a showcase of my skills and as a sandbox for experimenting with highly aesthetic web design and modern AI integrations. 
 
----
+<details>
+<summary><strong>View Portfolio Tech Stack & Setup</strong></summary>
 
-## ✦ Activity Graph
+#### Core Stack
+* **Framework**: React / Next.js (App Router)
+* **Styling**: Tailwind CSS
+* **Animations**: GSAP, Framer Motion, Anime.js
+* **3D Components**: Three.js, React Three Fiber, React Three Drei, OGL
+* **Motion & Scroll**: Lenis
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rudreshborle&theme=tokyo-night"/>
-</p>
+#### Running Locally
+```bash
+# Clone the repository
+git clone https://github.com/RudreshBorle/RudreshBorle.git
 
----
+# Navigate to the portfolio folder (if applicable)
+cd portfolio
 
-## ✦ LeetCode
+# Install dependencies
+npm install
 
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/RudreshBorle?theme=dark&ext=contest"/>
-</p>
-
----
-
-## ✦ Connect
-
-<p align="center">
-<a href="https://github.com/rudreshborle">GitHub</a> ·
-<a href="https://www.linkedin.com/in/rudresh-borle">LinkedIn</a> ·
-<a href="https://www.instagram.com/grrruto.tm/">Instagram</a>
-</p>
+# Start the development server
+npm run dev
+```
+</details>
 
 ---
 
-<p align="center">
-<i>
-Building today what I once searched tutorials for.
-</i>
-</p>
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RudreshBorle&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="Rudresh's GitHub stats" height="192px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RudreshBorle&theme=radium&hide_border=true&background=0D1117" alt="Rudresh's GitHub Streak" height="192px" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RudreshBorle&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Rudresh's Activity Graph" width="100%" />
+</div>
+
+---
+<div align="center">
+  <i>Let's build something amazing together!</i>
+</div>
